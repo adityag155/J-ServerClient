@@ -1,3 +1,5 @@
+//One way chat
+
 import java.io.*;
 import java.net.*;
 
